@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1431173913040
+Build-Jdk: 1.7.0_79
+Built-By: tranflash
+Bundle-ManifestVersion: 2
+Bundle-Name: org.opendaylight.snmp4sdn.vlanmd-model
+Bundle-SymbolicName: org.opendaylight.weightplugin.vlanmd-model
+Bundle-Version: 0.1.7.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.opendaylight.yang.gen.v1.urn.opendaylight.weightplug
+ in.md.vlan.rev700101;uses:="com.google.common.collect,org.opendaylight.
+ yangtools.yang.binding,org.opendaylight.yangtools.yang.common";version=
+ "0.1.7.SNAPSHOT",org.opendaylight.yang.gen.v1.urn.opendaylight.weightpl
+ ugin.md.vlan.rev150509;uses:="com.google.common.collect,org.opendayligh
+ t.yangtools.yang.binding,org.opendaylight.yangtools.yang.common";versio
+ n="0.1.7.SNAPSHOT"
+Import-Package: com.google.common.collect;version="[14.0,15)",org.openda
+ ylight.yangtools.yang.binding;version="[0.6,1)",org.opendaylight.yangto
+ ols.yang.common;version="[0.6,1)"
+Tool: Bnd-2.1.0.20130426-122213

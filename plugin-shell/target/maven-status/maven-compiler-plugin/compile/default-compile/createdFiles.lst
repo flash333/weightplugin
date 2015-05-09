@@ -1,0 +1,7 @@
+org/opendaylight/weightplugin/shell/AddVLANSetPorts.class
+org/opendaylight/weightplugin/shell/DeleteVlan.class
+org/opendaylight/weightplugin/shell/AddFlow.class
+org/opendaylight/weightplugin/shell/ReadDB.class
+org/opendaylight/weightplugin/shell/TopoDiscover.class
+org/opendaylight/weightplugin/shell/DeleteFlow.class
+org/opendaylight/weightplugin/shell/PrintVlanTable.class
